@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@RoyAnish074 
-easy-tuto
-/
-Android-Notes-App-With-Firebase
-Public
-forked from bimalkaf/Android-Notes-App-With-Firebase
-Fork your own copy of easy-tuto/Android-Notes-App-With-Firebase
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Android-Notes-App-With-Firebase/gradlew
-@bimalkaf
-bimalkaf completed
-Latest commit 1f03e9d on Jan 30
- History
- 1 contributor
-185 lines (162 sloc)  5.63 KB
- 
-
 #!/usr/bin/env sh
 
 #
@@ -211,18 +181,3 @@ APP_ARGS=`save "$@"`
 eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$APP_BASE_NAME\"" -classpath "\"$CLASSPATH\"" org.gradle.wrapper.GradleWrapperMain "$APP_ARGS"
 
 exec "$JAVACMD" "$@"
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Android-Notes-App-With-Firebase/gradlew at main · easy-tuto/Android-Notes-App-With-Firebase
